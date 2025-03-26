@@ -1,4 +1,4 @@
-- 👋 Olá! Eu sou o Francisco Pereira
+
 ![Welcome](https://github.com/user-attachments/assets/688a2ee0-0ecf-4585-a25b-c0a7d5159934)
 
 <!---
